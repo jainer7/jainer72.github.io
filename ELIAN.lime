@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\andres\Downloads\edilim564win32 (1)\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564win32 (1)\edilim564\Slide1.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564win32 (1)\edilim564\Slide2.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564win32 (1)\edilim564\Slide3.jpg</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564win32 (1)\edilim564\Slide4.jpg</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">..\edilim564win32 (1)\edilim564\Slide5.jpg</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>ESCRIBE SI ES SOFTWARE O HARDWARE</cabeceira>
+              <modo>1</modo>
+              <cousa nome="HARDWARE">..\edilim564win32 (1)\edilim564\MEMORIA USB 16G K1 JALTECH_40075_JL16K1_1.png</cousa>
+              <cousa nome="SOFTWARE">..\edilim564win32 (1)\edilim564\sddefault.jpg</cousa>
+              <cousa nome="HARDWARE">..\edilim564win32 (1)\edilim564\650_1200.jpg</cousa>
+              <cousa nome="SOFTWARE">..\edilim564win32 (1)\edilim564\definicion-de-software-sistema-apple-linux-windows-android.jpg</cousa>
+              <cousa nome="HARDWARE">..\edilim564win32 (1)\edilim564\71At-guUvPL._AC_UF894,1000_QL80_.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTRA LA IMAGEN A SU POSICION </cabeceira>
+              <modo>3</modo>
+              <cousa nome="SOFTWARE">..\edilim564win32 (1)\edilim564\descarga (1).jpg</cousa>
+              <cousa nome="SOFTWARE">..\edilim564win32 (1)\edilim564\sddefault.jpg</cousa>
+              <cousa nome="HARDWARE">..\edilim564win32 (1)\edilim564\GO801_GNI_VerifyingPhotos_Card2_image3.original.jpg</cousa>
+              <cousa nome="HARDWARE">..\edilim564win32 (1)\edilim564\650_1200.jpg</cousa>
+              <cousa nome="SOFTWARE">..\edilim564win32 (1)\edilim564\images (3).jpg</cousa>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Slide1.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Slide2.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Slide3.jpg</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Slide4.jpg</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Slide5.jpg</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>ESCRIBE SI ES SOFTWARE O HARDWARE</cabeceira>
+              <modo>1</modo>
+              <cousa nome="HARDWARE">MEMORIA_USB_16G_K1_JALTECH_40075_JL16K1_1.png</cousa>
+              <cousa nome="SOFTWARE">sddefault.jpg</cousa>
+              <cousa nome="HARDWARE">650_1200.jpg</cousa>
+              <cousa nome="SOFTWARE">definicion-de-software-sistema-apple-linux-windows-android.jpg</cousa>
+              <cousa nome="HARDWARE">71At-guUvPL._AC_UF894,1000_QL80_.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTRA LA IMAGEN A SU POSICION </cabeceira>
+              <modo>3</modo>
+              <cousa nome="SOFTWARE">descarga_(1).jpg</cousa>
+              <cousa nome="SOFTWARE">sddefault.jpg</cousa>
+              <cousa nome="HARDWARE">GO801_GNI_VerifyingPhotos_Card2_image3.original.jpg</cousa>
+              <cousa nome="HARDWARE">650_1200.jpg</cousa>
+              <cousa nome="SOFTWARE">images_(3).jpg</cousa>
+        </paxina>
+    </libro>
+</lim>
